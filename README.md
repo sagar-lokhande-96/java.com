@@ -1,3 +1,3 @@
 ## Java Programs
 
-1. sumOfNNaturalNo.java
+1. [sum of first N natural numbers](sumOfNNaturalNo.java)
