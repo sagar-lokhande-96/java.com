@@ -1,10 +1,11 @@
+// sum +=i     ==> upto n 
+
 import java.util.Scanner;
-public class sumOfNNaturalNo{
+public class sumOfNNaturalNO{
     public static int total(int n){
         int sum = 0;
         for(int i =1;i<=n;i++){
             sum += i;
-
         }
         return sum;
     }

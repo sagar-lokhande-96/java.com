@@ -1,3 +1,5 @@
 ## Java Programs
 
-1. [sum of first N natural numbers](sumOfNNaturalNO.java)
+* [sum of first N natural numbers](sumOfNNaturalNO.java)
+* [sum Of Two number] (sumOfTwoNo.java)
+* [simpleInterest] (simpleInterest.java)
