@@ -1,6 +1,7 @@
 # Java class files
 *.class
 
+
 # Log files
 *.log
 
