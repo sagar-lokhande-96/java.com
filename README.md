@@ -5,3 +5,6 @@
 * [simpleInterest](simpleInterest.java)
 * [output in java](output.java)
 * [variables, Data Types and Inputs in java](varAndDataTypesAndInputs.java)
+* [factorial](factorial.java)
+* [binomial Coefficient](binomialCoefficient.java)
+* [Binary to Decimal Convertion](binToDecimal.java)
