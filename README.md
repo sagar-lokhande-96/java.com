@@ -10,3 +10,4 @@
 * [variables, Data Types and Inputs in java](varAndDataTypesAndInputs.java)
 * [Operators in java](Operators.java)
 * [printing the Prime Numbers upto n](printPrime.java)
+* [decimal to binary conversion](decToBin.java)
