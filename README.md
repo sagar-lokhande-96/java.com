@@ -11,3 +11,5 @@
 * [Operators in java](Operators.java)
 * [printing the Prime Numbers upto n](printPrime.java)
 * [decimal to binary conversion](decToBin.java)
+* [number is positive or Negative](checkNoPositiveOrNot.java)
+* [check Leap Year](checkYearLeapOrNot.java)
