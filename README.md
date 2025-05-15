@@ -1,5 +1,6 @@
 ## Java Programs
 
+* [area of a square](areaOfSquare.java)
 * [average of 3 numbers](average.java)
 * [Binary to Decimal Convertion](binToDecimal.java)
 * [binomial Coefficient](binomialCoefficient.java)
