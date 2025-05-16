@@ -16,4 +16,5 @@
 * [Operators in java](Operators.java)
 * [printing the Prime Numbers upto n](printPrime.java)
 * [reads set of integers then print the sum of even and odd integers](printSumOfOddEven.java)
+* [Table](table.java)
 
