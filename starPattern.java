@@ -13,7 +13,22 @@ public class starPattern {
             System.out.println();
         }
     }
+
+    public static void invertedAndRotated_HalfPyramid(int n){
+        for(int i =1;i<=n;i++){
+            // int j=1;j<n-i;j++
+            for(int j=n;j>i;j--){
+                System.out.print(" ");
+            }
+            for(int j=1;j<=i;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
     public static void main(String arg[]){
         //hollowRectangle(4, 5);
+        invertedAndRotated_HalfPyramid(7);
     }
 }
