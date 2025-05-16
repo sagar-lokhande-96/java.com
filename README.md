@@ -15,6 +15,7 @@
 * [variables, Data Types and Inputs in java](varAndDataTypesAndInputs.java)
 * [Operators in java](Operators.java)
 * [printing the Prime Numbers upto n](printPrime.java)
+* [star patterns](starPattern.java)
 * [reads set of integers then print the sum of even and odd integers](printSumOfOddEven.java)
 * [Table](table.java)
 
