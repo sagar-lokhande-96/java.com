@@ -52,10 +52,25 @@ public class starPattern {
         }
     }
 
+    public static void triangleOf_0And1(int n){
+    
+        for(int i=1;i<=n;i++){
+            int num = (i % 2 == 0) ? 0 : 1; // Even row starts with 0, odd with 1
+
+            for(int j =1;j<=i;j++){
+                System.out.print(num);
+                num = 1 - num;   // value ko toggle kiya , matlab 1-1=0 && 1-0=1
+                
+            }
+            System.out.println();
+        }
+    }
+
     public static void main(String arg[]) {
-        //hollowRectangle(4, 5);
-        //invertedAndRotated_HalfPyramid(7);
-        //inverted_HalfPyramidWithNumbers(5);
-        floyds_triangle(5);
+        // hollowRectangle(4, 5);
+        // invertedAndRotated_HalfPyramid(7);
+        // inverted_HalfPyramidWithNumbers(5);
+        // floyds_triangle(5);
+        triangleOf_0And1(5);
     }
 }
