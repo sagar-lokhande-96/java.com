@@ -15,6 +15,8 @@
 * [variables, Data Types and Inputs in java](varAndDataTypesAndInputs.java)
 * [Operators in java](Operators.java)
 * [printing the Prime Numbers upto n](printPrime.java)
+* [printing Prime Numbers (Optimised Approach)](primeNoOptimisedApproach.java)
+* [printing prime Number upto n](printPrimeUptoN.java)
 * [Check the number is palindrom](checkPalindrome.java)
 * [star patterns](starPattern.java)
 * [reads set of integers then print the sum of even and odd integers](printSumOfOddEven.java)
