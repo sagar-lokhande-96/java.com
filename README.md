@@ -8,6 +8,7 @@
 * [check the number is positive or Negative](checkNoPositiveOrNot.java)
 * [decimal to binary conversion](decToBin.java)
 * [factorial](factorial.java)
+* [Largest and Smallest no in Array](largestSmallestInArray.java)
 * [Lenear Search](lenearSearch.java)
 * [sum of first N natural numbers](sumOfNNaturalNO.java)
 * [sum Of Two number](sumOfTwoNo.java)
