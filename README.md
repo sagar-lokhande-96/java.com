@@ -3,6 +3,7 @@
 * [area of a square](areaOfSquare.java)
 * [average of 3 numbers](average.java)
 * [Binary to Decimal Convertion](binToDecimal.java)
+* [Binary Search in Array](binarySearch.java)
 * [binomial Coefficient](binomialCoefficient.java)
 * [check Leap Year](checkYearLeapOrNot.java)
 * [check the number is positive or Negative](checkNoPositiveOrNot.java)
