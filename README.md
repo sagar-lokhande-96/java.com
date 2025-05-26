@@ -22,6 +22,7 @@
 * [printing prime Number upto n](printPrimeUptoN.java)
 * [Check the number is palindrom](checkPalindrome.java)
 * [star patterns](starPattern.java)
+* [reverse an Array](reverseArray.java)
 * [reads set of integers then print the sum of even and odd integers](printSumOfOddEven.java)
 * [Table](table.java)
 
