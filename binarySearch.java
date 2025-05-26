@@ -9,10 +9,10 @@ public class binarySearch {
                 return middle;
             }
             else if(num[middle] < key){
-                start+=1;
+                start = middle + 1;  
             }
             else{
-                end-=1;
+                end = middle - 1;
             }
         }
         return -1;
@@ -26,3 +26,6 @@ public class binarySearch {
         System.out.println("The index is "+result);
     }
 }
+
+
+// start += 1 || end -+ 1 ==> rakha toh worst case me TC O(n) hogi, then used start = middle +....
