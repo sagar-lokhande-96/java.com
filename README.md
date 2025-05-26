@@ -20,6 +20,7 @@
 * [printing the Prime Numbers upto n](printPrime.java)
 * [printing Prime Numbers (Optimised Approach)](primeNoOptimisedApproach.java)
 * [printing prime Number upto n](printPrimeUptoN.java)
+* [pairs in Array](arraypairs.java)
 * [Check the number is palindrom](checkPalindrome.java)
 * [star patterns](starPattern.java)
 * [reverse an Array](reverseArray.java)
