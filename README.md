@@ -11,6 +11,7 @@
 * [factorial](factorial.java)
 * [Largest and Smallest no in Array](largestSmallestInArray.java)
 * [Lenear Search](lenearSearch.java)
+* [Max Sum Array Sum](maxSubArraySum.java)
 * [sum of first N natural numbers](sumOfNNaturalNO.java)
 * [sum Of Two number](sumOfTwoNo.java)
 * [simpleInterest](simpleInterest.java)
